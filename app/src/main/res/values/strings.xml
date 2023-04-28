@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Recycle_View</string>
+    <string-array name="names">
+        <item>Ensias</item>
+        <item>FMP</item>
+        <item>Inpt</item>
+        <item>Insea</item>
+        <item>Enim</item>
+        <item>Ensem</item>
+
+    </string-array>
+    <string-array name="desc">
+        <item>Ecole Nationale Superieur dinformatique et dAnalyse des Systemes</item>
+        <item> Faculte de Medecine et pharmacie </item>
+        <item> Institut National des Postes et Télécommunications</item>
+        <item> Institut National de Statistique et dEconomie Appliquée</item>
+        <item> École nationale de lindustrie minérale</item>
+        <item> Ecole Nationale Supérieure dElectricité et de Mécanique</item>
+    </string-array>
+</resources>
